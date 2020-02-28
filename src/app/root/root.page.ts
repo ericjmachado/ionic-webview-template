@@ -15,7 +15,7 @@ export class RootPage implements OnInit {
       location: 'no',
       toolbar: 'no'
     };
-    this.iab.create('https://intensicare.net/new_mobile/', '_self', options);
+    this.iab.create('https://suaurl', '_self', options);
   }
 
 
